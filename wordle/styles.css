@@ -1,0 +1,24 @@
+body,
+html {
+  background: #111;
+  color: white;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+.cell {
+  height: 80px;
+  width: 80px;
+  line-height: 80px;
+  border: 1px solid #aaa;
+  display: inline-block;
+  margin: 3px;
+  font-size: 40px;
+  font-weight: bold;
+}
